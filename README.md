@@ -1,2 +1,2 @@
 # stradux
-redux/react-redux practice lib
+practice state machine lib ( understanding the logic behind react/react-redux )
